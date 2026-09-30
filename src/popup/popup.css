@@ -1,0 +1,2 @@
+html, body, #root { width: 380px; min-height: 540px; }
+body { background: var(--bg); }
